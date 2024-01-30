@@ -1,0 +1,4 @@
+# pywikibot related
+apicache-py3/
+throttle.ctrl
+user-*.py
