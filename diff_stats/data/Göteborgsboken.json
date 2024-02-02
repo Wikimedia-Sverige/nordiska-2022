@@ -1,0 +1,3493 @@
+{
+    "config": {
+        "info_template": {
+            "Nordiska museet Bildminnen image": "description"
+        },
+        "relevant_sdc": [
+            "P180"
+        ]
+    },
+    "meta": {
+        "cutoff": "2023-05-09",
+        "files": 111,
+        "source": "Category:Category:100 000 Bildminnen/Göteborgsboken",
+        "timestamp": "2023-12-12T14:44:34"
+    },
+    "results": [
+        {
+            "baseline_revision": "761558851",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksbergs varv, torrdockan"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009337.tif",
+            "statements": {
+                "added": [
+                    [
+                        "P180",
+                        "Q5389052"
+                    ]
+                ],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:25:22Z"
+        },
+        {
+            "baseline_revision": "761558863",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksbergs varv från sjösidan"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009338.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:26:31Z"
+        },
+        {
+            "baseline_revision": "761558876",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksbergs varv"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009339.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:27:39Z"
+        },
+        {
+            "baseline_revision": "761558886",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksberg, utsikt söderut, Masthuggskyrkan i bakgrunden"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009340.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:28:51Z"
+        },
+        {
+            "baseline_revision": "761558895",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksbergs varv, torrdockan"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009341.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:30:01Z"
+        },
+        {
+            "baseline_revision": "761558903",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm på sin fasta kajplats vid Stigbergskajen"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009342.tif",
+            "statements": {
+                "added": [
+                    [
+                        "P180",
+                        "Q3277521"
+                    ]
+                ],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:31:13Z"
+        },
+        {
+            "baseline_revision": "761558916",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Slottsberget, rundtursbåt Paddan på älven"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Slottsberget",
+                    "Paddan"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009343.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:32:25Z"
+        },
+        {
+            "baseline_revision": "761558928",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009344.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:33:37Z"
+        },
+        {
+            "baseline_revision": "761558938",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Svenska Lloyds S/S Suecia, tidigare och senare med svart skrov."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Suecia (ship, 1929)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009345.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:34:49Z"
+        },
+        {
+            "baseline_revision": "761558951",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripshplm ankommer på morgonen, assisteras av bogserbåtar."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009346.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:36:01Z"
+        },
+        {
+            "baseline_revision": "761558958",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Ramper vid slutet av Stigbergskajen för Färjan1 till Sannegårdshamnen och Färjan 3 till Eriksberg. Sjöfartsmuseet och Masthuggskyrkan i bakgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009347.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:37:12Z"
+        },
+        {
+            "baseline_revision": "761558963",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Engelska importbilar nedanför Sjöfartsmuseet"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Majorna, Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009348.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:38:25Z"
+        },
+        {
+            "baseline_revision": "761558971",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "(Gamla) Marieholmsbron från uppsidan. Gasklockan i bakgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Marieholmsbron"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009349.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:39:35Z"
+        },
+        {
+            "baseline_revision": "761558978",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "(Gamla) Marieholmsbron från uppsidan. Gasklockan i bakgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Marieholmsbron"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009350.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:40:46Z"
+        },
+        {
+            "baseline_revision": "761558990",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm med bogserbåtar."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009351.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:42:01Z"
+        },
+        {
+            "baseline_revision": "761558996",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm med bogserbåtar."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009352.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:43:11Z"
+        },
+        {
+            "baseline_revision": "761559001",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksbergs varv"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009353.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:44:21Z"
+        },
+        {
+            "baseline_revision": "761559005",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksbergs varv"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009354.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:45:30Z"
+        },
+        {
+            "baseline_revision": "761559017",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gamla kanslihuset, Göteborgs örlogsstation, Nya varvet"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Nya Varvet"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009355.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:46:41Z"
+        },
+        {
+            "baseline_revision": "761559026",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm och Saga vid kaj, skärgårdsbåt på väg ut"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009356.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:47:51Z"
+        },
+        {
+            "baseline_revision": "761559041",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksbergs varv och kafferosteri för Cirkelkaffe"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad",
+                    "Cirkelkaffe"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009357.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:49:01Z"
+        },
+        {
+            "baseline_revision": "761559053",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm med bogserbåtar kort före ankomsten till Stigbergskajen"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009358.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:50:12Z"
+        },
+        {
+            "baseline_revision": "761559067",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm med bogserbåtar kort före ankomsten till Stigbergskajen"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009359.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:51:23Z"
+        },
+        {
+            "baseline_revision": "761559076",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Göteborgs gasverk"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gasklockan, Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009360.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:52:33Z"
+        },
+        {
+            "baseline_revision": "761559084",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gasverket med lilla och stora gasklockorna"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gasklockan, Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009361.tif",
+            "statements": {
+                "added": [
+                    [
+                        "P180",
+                        "Q10503242"
+                    ]
+                ],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:53:43Z"
+        },
+        {
+            "baseline_revision": "761559096",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009362.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:54:51Z"
+        },
+        {
+            "baseline_revision": "761559102",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Flottister vid Nya varvet. Ryahamnen i bakgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Nya Varvet"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009363.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:56:02Z"
+        },
+        {
+            "baseline_revision": "761559107",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Flottister vid Nya varvet. Ryahamnen i bakgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Nya Varvet"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009364.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:57:12Z"
+        },
+        {
+            "baseline_revision": "761559111",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Göteborgs gasverk med gasklockorna."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gasklockan, Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009365.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:58:23Z"
+        },
+        {
+            "baseline_revision": "761559127",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Göteborgs gasverk."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gasklockan, Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009366.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T14:59:34Z"
+        },
+        {
+            "baseline_revision": "761559135",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Färjerampen vid slutet av Stigbergskajen. Svenska Lloyds M/S Saga i bakgrunden. Sjöfartsmuseet till höger."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009367.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:00:44Z"
+        },
+        {
+            "baseline_revision": "761559148",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Färjan 1, Slottsberget skymt bakom färjan."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009368.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:01:53Z"
+        },
+        {
+            "baseline_revision": "761559162",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Ena skorstenen på Gripsholm, från Amerikaskjulets tak eller översta våning."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009369.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:03:02Z"
+        },
+        {
+            "baseline_revision": "761559169",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Ena skorstenen på Gripsholm, från Amerikaskjulets tak eller översta våning."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009370.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:04:12Z"
+        },
+        {
+            "baseline_revision": "761559174",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Lyftkran på pråm med bogserbåtar, något längre ut än Stigbergskajen och Fiskhamnen. Sjöfartsmuseet skymt bakom kranen, Masthuggskyrkan i bakgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009371.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:05:22Z"
+        },
+        {
+            "baseline_revision": "761559178",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm och Saga vid Stigbergskajen, bogserbåt i förgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009372.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:06:31Z"
+        },
+        {
+            "baseline_revision": "761559184",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Kranar, Eriksbergs varv"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009373.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:07:40Z"
+        },
+        {
+            "baseline_revision": "761559192",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksbergs varv"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009374.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:08:54Z"
+        },
+        {
+            "baseline_revision": "761559198",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksberg från sjösidan. Längst till höger flytdockor sedda \"bakifrån\"."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009375.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:10:04Z"
+        },
+        {
+            "baseline_revision": "761559208",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksberg från sjösidan. Flytdockorna till vänster i bilden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009376.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:11:12Z"
+        },
+        {
+            "baseline_revision": "761559218",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gamla Marieholmsbron."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Marieholmsbron"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009377.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:12:21Z"
+        },
+        {
+            "baseline_revision": "761559224",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gamla Marieholmsbron med tåg."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Marieholmsbron"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009378.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:13:30Z"
+        },
+        {
+            "baseline_revision": "761559237",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009379.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:14:38Z"
+        },
+        {
+            "baseline_revision": "761559249",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm och Saga vid Stigbergskajen."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009380.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:15:48Z"
+        },
+        {
+            "baseline_revision": "761559257",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009381.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:16:59Z"
+        },
+        {
+            "baseline_revision": "761559271",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009382.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:18:13Z"
+        },
+        {
+            "baseline_revision": "761559279",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009383.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:19:24Z"
+        },
+        {
+            "baseline_revision": "761559283",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009384.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:20:33Z"
+        },
+        {
+            "baseline_revision": "761559288",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009385.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:21:41Z"
+        },
+        {
+            "baseline_revision": "761559293",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009386.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:22:50Z"
+        },
+        {
+            "baseline_revision": "761559303",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Sjöfartsmuseet med Sjömanstornet."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Sjöfartsmuseet"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009387.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:24:00Z"
+        },
+        {
+            "baseline_revision": "761559312",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Sjöfartsmuseet med Sjömanstornet."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Sjöfartsmuseet"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009388.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:25:10Z"
+        },
+        {
+            "baseline_revision": "761559321",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Importbilar nedanför Sjöfartsmuseet."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Sjöfartsmuseet"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009389.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:26:21Z"
+        },
+        {
+            "baseline_revision": "761559333",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholms ena skorsten med målare i arbete."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009390.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:27:30Z"
+        },
+        {
+            "baseline_revision": "761559346",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Järntorgsbrunnen med män på en parkbänk."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Järntorgsbrunnen, Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009391.tif",
+            "statements": {
+                "added": [
+                    [
+                        "P180",
+                        "Q10541853"
+                    ]
+                ],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:28:43Z"
+        },
+        {
+            "baseline_revision": "761559358",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Järntorgsbrunnen på avstånd."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Järntorgsbrunnen, Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009392.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:29:56Z"
+        },
+        {
+            "baseline_revision": "761559364",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm på väg in med bogserbåtar."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009393.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:31:07Z"
+        },
+        {
+            "baseline_revision": "761559371",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm på väg in med bogserbåtar."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009394.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:32:17Z"
+        },
+        {
+            "baseline_revision": "761559376",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksbergs varv och kafferosteri för Cirkelkaffe"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad",
+                    "Cirkelkaffe"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009395.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:33:27Z"
+        },
+        {
+            "baseline_revision": "761559388",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009396.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:34:37Z"
+        },
+        {
+            "baseline_revision": "761559398",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009397.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:35:47Z"
+        },
+        {
+            "baseline_revision": "761559408",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksberg från sjösidan."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009398.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:36:57Z"
+        },
+        {
+            "baseline_revision": "761559414",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009399.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:38:11Z"
+        },
+        {
+            "baseline_revision": "761559426",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009400.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:39:24Z"
+        },
+        {
+            "baseline_revision": "761559437",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Färjan 3, Gripsholms akter till höger, Slottsberget i bakgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009401.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:40:33Z"
+        },
+        {
+            "baseline_revision": "761559447",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Färjan 3 framför Gripsholm."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009402.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:41:44Z"
+        },
+        {
+            "baseline_revision": "761559455",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm med bogserbåtar på ingång."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009403.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:42:55Z"
+        },
+        {
+            "baseline_revision": "761559463",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Kronprinsessan Ingrid på väg till Fredrikshavn."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009404.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:44:03Z"
+        },
+        {
+            "baseline_revision": "761559479",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gamla kanslihuset på Nya varvet."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Nya Varvet"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009405.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:45:13Z"
+        },
+        {
+            "baseline_revision": "761559490",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009406.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:46:23Z"
+        },
+        {
+            "baseline_revision": "761559499",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009407.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:47:32Z"
+        },
+        {
+            "baseline_revision": "761559510",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009408.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:48:43Z"
+        },
+        {
+            "baseline_revision": "761559525",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009409.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:49:51Z"
+        },
+        {
+            "baseline_revision": "761559533",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Flottister vid Nya Varvet. Ryahamnen i bakgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Nya Varvet"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009410.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:51:00Z"
+        },
+        {
+            "baseline_revision": "761559539",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm på väg in, sedd snett bakifrån."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009411.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:52:10Z"
+        },
+        {
+            "baseline_revision": "761559548",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm på väg in med bogserbåtar, ganska nära snett framifrån."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009412.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:53:19Z"
+        },
+        {
+            "baseline_revision": "761559557",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Porten till gamla kanslihuset på Nya Varvet."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Nya Varvet"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009413.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:54:31Z"
+        },
+        {
+            "baseline_revision": "761559565",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Hyreshus med tvätt på tork i Sandarna."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Sandarna"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009414.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:55:41Z"
+        },
+        {
+            "baseline_revision": "761559573",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Skolbarn vid Sannaskolan."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Sannaskolan"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009415.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:56:51Z"
+        },
+        {
+            "baseline_revision": "761559582",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gullbergskajen och Gasverket."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gasklockan, Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009416.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:58:01Z"
+        },
+        {
+            "baseline_revision": "761559595",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Götaälvbron från nedsidan."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Götaälvbron"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009417.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T15:59:12Z"
+        },
+        {
+            "baseline_revision": "761604686",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Isbrytaren Göta Lejon vid kaj."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Göta Lejon (ship, 1932)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009418.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:00:25Z"
+        },
+        {
+            "baseline_revision": "761591384",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Isbrytaren Göta Lejon vid kaj."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Göta Lejon (ship, 1932)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009419.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:01:33Z"
+        },
+        {
+            "baseline_revision": "761739484",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm i färd med att vändas av fyra bogserbåtar. Hon ligger på tvärs i älven. I bakgrunden är kvarnen vid Eriksberg."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009420.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:02:39Z"
+        },
+        {
+            "baseline_revision": "761739493",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm under vändning i älven."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009421.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:03:44Z"
+        },
+        {
+            "baseline_revision": "761739500",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Kran på Eriksbergs varv."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009422.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:04:47Z"
+        },
+        {
+            "baseline_revision": "761739510",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm nu färdigvänd med fören mot älvmynningen. Bogserbåten \"Birger\" i förgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009423.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:05:51Z"
+        },
+        {
+            "baseline_revision": "761739517",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Gripsholm på ingång till Göteborg."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Gripsholm (ship, 1925)"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009424.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:06:57Z"
+        },
+        {
+            "baseline_revision": "761739522",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Göteborgs-Postens hus vid Polhemsplatsen om kvällen."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Göteborgs-Posten"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009425.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:08:01Z"
+        },
+        {
+            "baseline_revision": "761606456",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Varvsbild från Eriksberg."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009426.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:09:08Z"
+        },
+        {
+            "baseline_revision": "761739531",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Varvsbild från Eriksberg."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009427.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:10:11Z"
+        },
+        {
+            "baseline_revision": "761607146",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Skolbarn vid Sannaskolan."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Sannaskolan"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009428.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:11:24Z"
+        },
+        {
+            "baseline_revision": "761739535",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Sannaskolan med barn på skolgården."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Sannaskolan"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009429.tif",
+            "statements": {
+                "added": [
+                    [
+                        "P180",
+                        "Q10661553"
+                    ]
+                ],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:12:29Z"
+        },
+        {
+            "baseline_revision": "761739543",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Hyreshus, 4 våningar, troligen vid Sannaskolan/Sandarna."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Sandarna"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009430.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:13:42Z"
+        },
+        {
+            "baseline_revision": "761739550",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Hyreshus, 4 våningar, troligen vid Sannaskolan/Sandarna."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Sandarna"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009431.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:14:47Z"
+        },
+        {
+            "baseline_revision": "761607946",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009432.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:15:53Z"
+        },
+        {
+            "baseline_revision": "761739560",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Göteborgs-Postens hus om kvällen. Bil i förgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Göteborgs-Posten"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009433.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:17:00Z"
+        },
+        {
+            "baseline_revision": "761739566",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Malte Johnson, saxofonist och orkesterledare utomhus på Liseberg."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Malte Johnson",
+                    "Liseberg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009434.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:18:05Z"
+        },
+        {
+            "baseline_revision": "761739573",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Åkattraktion på Liseberg. På skylten i bakgrunden: Förbjudet att stiga ur vagnarna innan karuselllen stannat."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Liseberg"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009435.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:19:12Z"
+        },
+        {
+            "baseline_revision": "761739578",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Kooperativa Förbundets kvarn \"Tre Lejon\" vid Eriksberg. En annan bild av kvarnen är med i Göteborgsboken."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Juvelkvarnen"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009436.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:20:17Z"
+        },
+        {
+            "baseline_revision": "761739588",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Varvsbild, Eriksberg."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009437.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:21:24Z"
+        },
+        {
+            "baseline_revision": "761609377",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Svetsare, troligen vid Eriksberg."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009438.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:22:28Z"
+        },
+        {
+            "baseline_revision": "761739595",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Svetsare, troligen vid Eriksberg,"
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009439.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:23:34Z"
+        },
+        {
+            "baseline_revision": "761609841",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Propeller och roder på landsatt fartyg, troligen Eriksberg. Med i Göteborgsboken."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009440.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:24:39Z"
+        },
+        {
+            "baseline_revision": "761610007",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Fartygsbygge vid Eriksbergs varv."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009441.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:25:47Z"
+        },
+        {
+            "baseline_revision": "761610224",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Fartygsbygge vid Eriksbergs varv."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009442.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:26:51Z"
+        },
+        {
+            "baseline_revision": "761739603",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Svetsare, troligen vid Eriksberg."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009443.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:27:53Z"
+        },
+        {
+            "baseline_revision": "761739610",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Arbetare på väg uppför en trappa eller lejdare."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009444.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:28:58Z"
+        },
+        {
+            "baseline_revision": "761610871",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Eriksbergsvarvets kontorsbyggnad."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009445.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:30:02Z"
+        },
+        {
+            "baseline_revision": "761739619",
+            "captions": {
+                "added": [
+                    {
+                        "sv": "Varvsbild med Masthuggskyrkan i bakgrunden."
+                    }
+                ],
+                "removed": []
+            },
+            "categories": {
+                "added": [
+                    "100 000 Bildminnen/Göteborgsboken",
+                    "1947 in Göteborg",
+                    "Eriksbergs Mekaniska Verkstad"
+                ],
+                "removed": [
+                    "100_000_Bildminnen/Göteborgsboken"
+                ]
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.0009446.tif",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-05-10T16:31:06Z"
+        },
+        {
+            "baseline_revision": "828303366",
+            "captions": {
+                "added": [],
+                "removed": []
+            },
+            "categories": {
+                "added": [],
+                "removed": []
+            },
+            "description": {
+                "changed": false,
+                "new": "{{sv|Göteborgsboken}}",
+                "old": "{{sv|Göteborgsboken}}"
+            },
+            "filename": "File:Göteborgsboken - Nordiska museet - NMAx.jpg",
+            "statements": {
+                "added": [],
+                "removed": []
+            },
+            "uploaded": "2023-12-05T07:58:48Z"
+        }
+    ]
+}
