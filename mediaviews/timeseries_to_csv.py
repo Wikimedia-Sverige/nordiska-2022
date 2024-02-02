@@ -1,7 +1,7 @@
 # take a get_media_views.py output file and output as a csv (totals per time unit)
 import json
 in_file = input('path to output file: ')
-out_file = f'{in_file.partition(".")[0]}.csv'
+out_file = f'{in_file.rpartition(".")[0]}.csv'
 with open(in_file, 'r', encoding ='utf8') as fp:
     data = json.load(fp)
 

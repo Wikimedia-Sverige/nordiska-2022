@@ -41,7 +41,7 @@ def analyse_data(data):
     return stats
 
 def output_stats(stats, filename, meta):
-    outfile = f'{filename.partition(".")[0]}_stats.json'
+    outfile = f'{filename.rpartition(".")[0]}_stats.json'
     data = {'meta': meta, 'stats': stats}
     with open(outfile, 'w', encoding ='utf8') as fp:
         json.dump(data, fp, sort_keys=True, indent=2, ensure_ascii=False)
