@@ -2,7 +2,7 @@
 
 A collection of scripts and data connected to the 2022-2023 project *100 000 Bildminnen*. A project done together with, and with funding from, Nordiska museet.
 
-Not included here is [commons-diff](https://github.com/Wikimedia-Sverige/commons-diff/), the tool developed for extracting changes to file pages on Wikimedia Commons in support of roundtripping.
+Not included in this repo is `commons-diff`, the tool developed for extracting changes to file pages on Wikimedia Commons in support of roundtripping. This tool is instead provided in [its own repo](https://github.com/Wikimedia-Sverige/commons-diff/) where it has been developed with an aim to be useful beyond this project.
 
 For the uploaded images see [Commons:Nordiska museet/100 000 Bildminnen](https://commons.wikimedia.org/wiki/Commons:Nordiska_museet/100_000_Bildminnen).
 
