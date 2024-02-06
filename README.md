@@ -6,7 +6,7 @@ Not included in this repo is `commons-diff`, the tool developed for extracting c
 
 For the uploaded images see [Commons:Nordiska museet/100 000 Bildminnen](https://commons.wikimedia.org/wiki/Commons:Nordiska_museet/100_000_Bildminnen).
 
-The final report for the project can be found at *link to be added*.
+The final report for the project can be found at [link to be added].
 
 ## Structure
 
