@@ -8,13 +8,13 @@ For the uploaded images see [Commons:Nordiska museet/100 000 Bildminnen](https:/
 
 The final report for the project can be found at *link to be added*.
 
-## The structure
+## Structure
 
 The repo is structured so that each script lives in a different directory. The directory contains the code of the script as well as a requirements file.
 
 The directory may also contain a `data` subdirectory containing the final outputs from this scripts when run right after the end of the project.
 
-## The scripts
+## Scripts
 
 Below is a very brief description of each script.
 
