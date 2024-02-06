@@ -12,7 +12,7 @@ The final report for the project can be found at *link to be added*.
 
 The repo is structured so that each script lives in a different directory. The directory contains the code of the script as well as a requirements file.
 
-The directory may also contain a `data` subdirectory containing the final outputs from this scripts when run right after the end of the project.
+The directory may also contain a `output_data` subdirectory containing the final outputs from this scripts when run right after the end of the project. If this subdirectory exists it will also contain an `_inputs.md` file documenting the inputs used to produce each output.
 
 ## Scripts
 
@@ -22,7 +22,7 @@ Below is a very brief description of each script.
 * **wp_captions**: Get all images in a Commons category and for each get all global usages and associated captions.
 * **deriv_detector**: Attempt to identify derivative files by analysing which other files link to files in a Commons category.
 * **file_count**: Show the growth of a Commons category of files by analysing the upload dates of its category.
-* **diff_stats**: Extract some statistics from the [commons-diff](https://github.com/Wikimedia-Sverige/commons-diff/) output files. The `data` directory also contains the final commons-diff output.
+* **diff_stats**: Extract some statistics from the [commons-diff](https://github.com/Wikimedia-Sverige/commons-diff/) output files. The `output_data` directory also contains the final commons-diff output.
 
 ## Disclaimer
 
