@@ -31,7 +31,7 @@ RETRIES = Retry(total=5, backoff_factor=0.1)
 
 def get_category_captions(
         cat_name: str, limit: int = None, recursion: int = 0,
-        retrieve_gallery: bool = False, debug: bool = False) -> (dict, dict):
+        retrieve_gallery: bool = False, debug: bool = False) -> tuple[dict, dict]:
     """Retrieve captions from the provided category."""
     commons = pywikibot.Site('commons', 'commons')
     category = pywikibot.Category(commons, cat_name)
@@ -40,7 +40,7 @@ def get_category_captions(
     return captions, stats
 
 
-def process_cat_members(cat: pywikibot.Category, recurse: int = 0, limit: int = None) -> (dict, dict):
+def process_cat_members(cat: pywikibot.Category, recurse: int = 0, limit: int = None) -> tuple[dict, dict]:
     """Process each member file of a category and its global usage."""
     usage = {}
     used = 0  # differs from len(files) in that it only counts files with captions
