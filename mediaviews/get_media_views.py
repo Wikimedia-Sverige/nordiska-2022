@@ -11,6 +11,7 @@ Limitations:
 import argparse
 import json
 import urllib.parse
+import os
 from collections.abc import Iterator
 from datetime import date
 
@@ -154,6 +155,15 @@ def set_user_agent(user: str):
     HEADERS['From'] = user
 
 
+def output_result(result: dict, out_file: str) -> None:
+    """Output result to file."""
+    if not os.path.exists(os.path.split(out_file)[0]+'/'):
+        os.makedirs(os.path.split(out_file)[0]+'/')
+    with open(out_file, 'w', encoding ='utf8') as fp:
+        json.dump(result, fp, sort_keys=True, indent=2, ensure_ascii=False)
+        pywikibot.output(f'Data saved to {out_file}')
+
+
 def handle_args(argv: list = None) -> argparse.Namespace:
     """
     Parse and handle command line arguments.
@@ -182,7 +192,7 @@ def handle_args(argv: list = None) -> argparse.Namespace:
                         choices=['raw', 'file', 'month', 'day'], default='file',
                         help='collate data per file/month/day, or return raw data. Default "file')
     parser.add_argument('-d', '--debug', action='store_true',
-                        help='versbose debugging info')
+                        help='verbose debugging info')
     parser.add_argument('-o', '--output', action='store', metavar='PATH',
                         default=DEFAULT_OUTPUT, dest='out_file',
                         help=f'output json file. Defaults to {{cwd}}/{DEFAULT_OUTPUT}')
@@ -200,9 +210,7 @@ def main() -> None:
         args.cat_name, limit=args.limit, recursion=args.recurse, start=args.start,
         end=args.end, output_type=args.output_type, debug=args.debug)
     result['_meta'] = make_meta(args)
-    with open(args.out_file, 'w', encoding ='utf8') as fp:
-        json.dump(result, fp, sort_keys=True, indent=2, ensure_ascii=False)
-        pywikibot.output(f'Data saved to {args.out_file}')
+    output_result(result, args.out_file)
 
 
 if __name__ == "__main__":

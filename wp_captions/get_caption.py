@@ -11,6 +11,7 @@ so it isn't fast and doesn't make use of e.g. combined Action-API calls.
 import argparse
 import json
 import urllib.parse
+import os
 from collections import defaultdict
 from datetime import date
 
@@ -212,6 +213,15 @@ def set_user_agent(user: str):
     HEADERS['From'] = user
 
 
+def output_result(result: dict, out_file: str) -> None:
+    """Output result to file."""
+    if not os.path.exists(os.path.split(out_file)[0]+'/'):
+        os.makedirs(os.path.split(out_file)[0]+'/')
+    with open(out_file, 'w', encoding ='utf8') as fp:
+        json.dump(result, fp, sort_keys=True, indent=2, ensure_ascii=False)
+        pywikibot.output(f'Data saved to {out_file}')
+
+
 def handle_args(argv: list = None) -> argparse.Namespace:
     """
     Parse and handle command line arguments.
@@ -233,7 +243,7 @@ def handle_args(argv: list = None) -> argparse.Namespace:
     parser.add_argument('-l', '--limit', type=int, action='store', metavar='N',
                         help='limit the number of files to analyse. Defaults to no limit.')
     parser.add_argument('-d', '--debug', action='store_true',
-                        help='versbose debugging info')
+                        help='verbose debugging info')
     parser.add_argument('-o', '--output', action='store', metavar='PATH',
                         default=DEFAULT_OUTPUT, dest='out_file',
                         help=f'output json file. Defaults to {{cwd}}/{DEFAULT_OUTPUT}')
@@ -255,9 +265,7 @@ def main() -> None:
         'stats': stats,
         'results': results
         }
-    with open(args.out_file, 'w', encoding ='utf8') as fp:
-        json.dump(out_data, fp, sort_keys=True, indent=2, ensure_ascii=False)
-        pywikibot.output(f'Data saved to {args.out_file}')
+    output_result(out_data, args.out_file)
 
 
 if __name__ == "__main__":
