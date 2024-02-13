@@ -10,7 +10,7 @@ The final report for the project can be found at [100 000 Bildminnen - Slutrappo
 
 ## Structure
 
-The repo is structured so that each script lives in a different directory. The directory contains the code of the script as well as a requirements file.
+The repo is structured so that each script lives in a different directory. The directory contains the code of the script as well as a `requirements.txt` file to be installed via `pip`.
 
 The directory may also contain a `output_data` subdirectory containing the final outputs from this scripts when run right after the end of the project. If this subdirectory exists it will also contain an `_inputs.md` file documenting the inputs used to produce each output.
 
