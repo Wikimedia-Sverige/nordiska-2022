@@ -150,6 +150,9 @@ def get_media_list(
     data = res.json()
     outdata = {}
     for image in data.get('items'):
+        if not image.get('title'):
+            # math and diagrams/timelines get rendered as images but have no titles
+            continue
         caption = image.get('caption', {}).get('text')
         if caption:
             caption = caption.strip()
