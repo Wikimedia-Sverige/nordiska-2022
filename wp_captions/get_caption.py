@@ -1,5 +1,5 @@
 # add tqdm quieting, and if so a class structure?
-"""Gets all images in a category and for each gets all global usages and associated captions.
+"""Gets all images in a category (or list) and for each gets all global usages and associated captions.
 
 Limitations:
 * Not all Wikimedia wikis support returning captions.
@@ -64,31 +64,12 @@ def process_list_members(file_list, limit: int = None) -> tuple[dict, dict]:
     for file_page in tqdm(file_list, desc="Processing file list entries", total=total):
         if file_page in files:
             continue  # in case of duplicates
-        files.add(file_page)
-        counted = False
-        file_usages = file_page.globalusage()  # would be great to discard transcluded pages
-        for file_usage in file_usages:
-            if not counted:
-                used += 1
-                counted = True
-            fu_site = file_usage.site.dbName()
-            if fu_site not in usage:
-                usage[fu_site] = defaultdict(list)
-            usage[fu_site][file_usage.title()].append(file_page.title(with_ns=False))
+
+        used += process_single_file(file_page, files, usage)
         if limit and len(files) >= limit:
             break
 
-    num_pages = sum([len(us) for us in usage.values()])
-    num_usages = sum([sum([len(pages) for pages in us.values()]) for us in usage.values()])
-    pywikibot.output(
-        f'Found {used} files used {num_usages} times across {num_pages} pages on {len(usage)} sites.')
-    stats = {
-        'used files': used,
-        'usages': num_usages,
-        'pages': num_pages,
-        'sites': len(usage)
-    }
-    return usage, stats
+    return usage, collate_usage_stats(usage, used)
 
 
 def get_category_captions(
@@ -104,7 +85,6 @@ def get_category_captions(
     captions = get_multiple_captions(file_usages, retrieve_gallery=retrieve_gallery, debug=debug)
     return captions, stats
 
-#@todo refactor to reuse for lists
 def process_cat_members(cat: pywikibot.Category, recurse: int = 0, limit: int = None) -> tuple[dict, dict]:
     """Process each member file of a category and its global usage."""
     usage = {}
@@ -115,18 +95,28 @@ def process_cat_members(cat: pywikibot.Category, recurse: int = 0, limit: int = 
     for file_page in tqdm(category_members, desc="Processing category members", total=total):
         if file_page in files:
             continue  # since same file can occur in recursive categories
-        files.add(file_page)
-        counted = False
-        file_usages = file_page.globalusage()  # would be great to discard transcluded pages
-        for file_usage in file_usages:
-            if not counted:
-                used += 1
-                counted = True
-            fu_site = file_usage.site.dbName()
-            if fu_site not in usage:
-                usage[fu_site] = defaultdict(list)
-            usage[fu_site][file_usage.title()].append(file_page.title(with_ns=False))
 
+        used += process_single_file(file_page, files, usage)
+
+    return usage, collate_usage_stats(usage, used)
+
+def process_single_file(file_page: pywikibot.FilePage, files: set, usage: dict) -> bool:
+    """Extract and collate usage of a single file."""
+    used = False
+    files.add(file_page)
+    counted = False
+    file_usages = file_page.globalusage()  # would be great to discard transcluded pages
+    for file_usage in file_usages:
+        if not counted:
+            used = True
+            counted = True
+        fu_site = file_usage.site.dbName()
+        if fu_site not in usage:
+            usage[fu_site] = defaultdict(list)
+        usage[fu_site][file_usage.title()].append(file_page.title(with_ns=False))
+    return used
+
+def collate_usage_stats(usage: dict, used: int) -> dict:
     num_pages = sum([len(us) for us in usage.values()])
     num_usages = sum([sum([len(pages) for pages in us.values()]) for us in usage.values()])
     pywikibot.output(
@@ -137,8 +127,7 @@ def process_cat_members(cat: pywikibot.Category, recurse: int = 0, limit: int = 
         'pages': num_pages,
         'sites': len(usage)
     }
-    return usage, stats
-
+    return stats
 
 def get_multiple_captions(
         file_usages: dict, retrieve_gallery: bool = False, debug: bool = False) -> dict:
