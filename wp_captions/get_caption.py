@@ -1,3 +1,4 @@
+# add tqdm quieting, and if so a class structure?
 """Gets all images in a category and for each gets all global usages and associated captions.
 
 Limitations:
@@ -28,18 +29,82 @@ HEADERS = {
 }
 RETRIES = Retry(total=5, backoff_factor=0.1)
 
-
-def get_category_captions(
-        cat_name: str, limit: int = None, recursion: int = 0,
-        retrieve_gallery: bool = False, debug: bool = False) -> tuple[dict, dict]:
-    """Retrieve captions from the provided category."""
+def get_list_captions(
+        list_file: str, limit: int = None, retrieve_gallery: bool = False,
+        debug: bool = False, usage_only: bool = False) -> tuple[dict, dict]:
+    """Retrieve captions from the file listing commons filenames category."""
     commons = pywikibot.Site('commons', 'commons')
-    category = pywikibot.Category(commons, cat_name)
-    file_usages, stats = process_cat_members(category, recurse=recursion, limit=limit)
+    file_list = read_data_filelist(commons, list_file)
+    file_usages, stats = process_list_members(file_list, limit=limit)
+    if usage_only:
+        return file_usages, stats
     captions = get_multiple_captions(file_usages, retrieve_gallery=retrieve_gallery, debug=debug)
     return captions, stats
 
 
+def read_data_filelist(commons: pywikibot.Site, filename: str) -> list[pywikibot.FilePage]:
+    filelist = []
+    pywikibot.output(f"Loading files from list: {filename}")
+    with open(filename, 'r', encoding="utf-8") as data:
+        for line in data:
+            if not line.strip():  # handle trailing newlines
+                continue
+            filepage = pywikibot.FilePage(commons, line.strip())
+            filelist.append(filepage)
+    pywikibot.output(f"Loaded {len(filelist)} filenames.")
+    return filelist
+
+
+def process_list_members(file_list, limit: int = None) -> tuple[dict, dict]:
+    """Process each member file of a category and its global usage."""
+    usage = {}
+    used = 0  # differs from len(files) in that it only counts files with captions
+    files = set()
+    total = limit or len(file_list)
+    for file_page in tqdm(file_list, desc="Processing file list entries", total=total):
+        if file_page in files:
+            continue  # in case of duplicates
+        files.add(file_page)
+        counted = False
+        file_usages = file_page.globalusage()  # would be great to discard transcluded pages
+        for file_usage in file_usages:
+            if not counted:
+                used += 1
+                counted = True
+            fu_site = file_usage.site.dbName()
+            if fu_site not in usage:
+                usage[fu_site] = defaultdict(list)
+            usage[fu_site][file_usage.title()].append(file_page.title(with_ns=False))
+        if limit and len(files) >= limit:
+            break
+
+    num_pages = sum([len(us) for us in usage.values()])
+    num_usages = sum([sum([len(pages) for pages in us.values()]) for us in usage.values()])
+    pywikibot.output(
+        f'Found {used} files used {num_usages} times across {num_pages} pages on {len(usage)} sites.')
+    stats = {
+        'used files': used,
+        'usages': num_usages,
+        'pages': num_pages,
+        'sites': len(usage)
+    }
+    return usage, stats
+
+
+def get_category_captions(
+        cat_name: str, limit: int = None, recursion: int = 0,
+        retrieve_gallery: bool = False, debug: bool = False,
+        usage_only: bool = False) -> tuple[dict, dict]:
+    """Retrieve captions from the provided category."""
+    commons = pywikibot.Site('commons', 'commons')
+    category = pywikibot.Category(commons, cat_name)
+    file_usages, stats = process_cat_members(category, recurse=recursion, limit=limit)
+    if usage_only:
+        return file_usages, stats
+    captions = get_multiple_captions(file_usages, retrieve_gallery=retrieve_gallery, debug=debug)
+    return captions, stats
+
+#@todo refactor to reuse for lists
 def process_cat_members(cat: pywikibot.Category, recurse: int = 0, limit: int = None) -> tuple[dict, dict]:
     """Process each member file of a category and its global usage."""
     usage = {}
@@ -231,13 +296,17 @@ def handle_args(argv: list = None) -> argparse.Namespace:
 
     @param argv: arguments to parse. Defaults to sys.argv[1:].
     """
-
+    #@TODO require either category or list but disallow both
     parser = argparse.ArgumentParser(
         description=('Select a category on Commons and download associated captions across '
                     'all Wikimedia projects.'))
     parser.add_argument('-c', '--category', action='store', metavar='CAT',
-                        required=True, dest='cat_name',
+                        required=False, dest='cat_name',
                         help='Commons category to process (with or without Category:-prefix)')
+    parser.add_argument('-L', '--list', action='store', metavar='LIST',
+                        required=False, dest='list_file',
+                        help='Path to a file containing a list of Commons files')
+
     parser.add_argument('--no_gallery', action='store_true',
                         help='do not retrieve captions from galleries (faster)')
     parser.add_argument('-r', '--recurse', type=int, default=None,
@@ -252,6 +321,8 @@ def handle_args(argv: list = None) -> argparse.Namespace:
                         help=f'output json file. Defaults to {{cwd}}/{DEFAULT_OUTPUT}')
     parser.add_argument('-u', '--user', action='store', required=True,
                         help='username/e-mail to add to User-Agent. See m:User-Agent_policy.')
+    parser.add_argument('--usage_only', action='store_true',
+                        help='output usage only, skipping caption detection')
 
     return parser.parse_args(argv)
 
@@ -260,9 +331,20 @@ def handle_args(argv: list = None) -> argparse.Namespace:
 def main() -> None:
     """Command line entrypoint."""
     args = handle_args()
-    results, stats = get_category_captions(
-        args.cat_name, limit=args.limit, recursion=args.recurse,
-        retrieve_gallery=not(args.no_gallery), debug=args.debug)
+    results, stats = None, None
+    if args.cat_name:
+        results, stats = get_category_captions(
+            args.cat_name, limit=args.limit, recursion=args.recurse,
+            retrieve_gallery=not(args.no_gallery), debug=args.debug,
+            usage_only=args.usage_only)
+    elif args.list_file:
+        results, stats = get_list_captions(
+            args.list_file, limit=args.limit,
+            retrieve_gallery=not(args.no_gallery), debug=args.debug,
+            usage_only=args.usage_only)
+    else:
+        print("Either the category or the list argument must be passed to the script.")
+        exit()
     out_data = {
         'meta': make_meta(args),
         'stats': stats,
